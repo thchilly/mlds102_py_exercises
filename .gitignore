@@ -1,0 +1,16 @@
+.DS_Store
+
+# Ignore raw data files
+3_numpy/intel_lab/data.txt
+6_pandas/intel_raw.txt
+3_numpy/intel_lab/humidity.txt
+3_numpy/intel_lab/temp.txt
+3_numpy/intel_lab/voltage.txt
+4_scipy/intel_lab/humidity.txt
+4_scipy/intel_lab/light.txt
+4_scipy/intel_lab/mote_locs.txt
+7_scikit-learn/mote_data/humidity.txt
+7_scikit-learn/mote_data/voltage.txt
+7_scikit-learn/mote_data/temp.csv
+7_scikit-learn/mote_data/light.txt
+6_pandas/Forex.txt
